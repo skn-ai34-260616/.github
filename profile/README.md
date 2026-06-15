@@ -1,5 +1,5 @@
-# 🌱 SKN 23th
-> SK네트웍스 Family AI 캠프 23기
+# 🌱 SKN 34th
+> SK네트웍스 Family AI 캠프 34기
 
 ---
 
