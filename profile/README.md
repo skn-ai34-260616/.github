@@ -20,3 +20,4 @@ class Teacher:
 | Chapter | Repository |
 |----------|-------------|
 | python | [Python basic lecture sources](https://github.com/skn-ai34-260616/python_basic.git) |
+| database | [Database lecture sources](https://github.com/skn-ai34-260616/database.git) |
