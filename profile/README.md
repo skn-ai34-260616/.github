@@ -21,3 +21,4 @@ class Teacher:
 |----------|-------------|
 | python | [Python basic lecture sources](https://github.com/skn-ai34-260616/python_basic.git) |
 | database | [Database lecture sources](https://github.com/skn-ai34-260616/database.git) |
+| web_crawling | [Web Crawling lecture sources](https://github.com/skn-ai34-260616/web_crawling.git) |
