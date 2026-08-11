@@ -26,3 +26,4 @@ class Teacher:
 | ML | [ML lecture sources](https://github.com/skn-ai34-260616/ML.git) |
 | DL | [DL_lecture_sources](https://github.com/skn-ai34-260616/DL.git) |
 | model validation | [Model_validation_lecture_sources](https://github.com/skn-ai34-260616/model_validation.git) |
+| NLP | [NLP_validation_lecture_sources](https://github.com/skn-ai34-260616/NLP.git) |
