@@ -28,3 +28,4 @@ class Teacher:
 | model validation | [Model_validation_lecture_sources](https://github.com/skn-ai34-260616/model_validation.git) |
 | NLP | [NLP_validation_lecture_sources](https://github.com/skn-ai34-260616/NLP.git) |
 | LLM | [LLM_lecture_sources](https://github.com/skn-ai34-260616/LLM) |
+| Multi-Modal | [LLM_lecture_sources](https://github.com/skn-ai34-260616/multimodal) |
