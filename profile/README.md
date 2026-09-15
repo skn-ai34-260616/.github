@@ -29,3 +29,6 @@ class Teacher:
 | NLP | [NLP_validation_lecture_sources](https://github.com/skn-ai34-260616/NLP.git) |
 | LLM | [LLM_lecture_sources](https://github.com/skn-ai34-260616/LLM) |
 | Multi-Modal | [MultiModal_lecture_sources](https://github.com/skn-ai34-260616/multimodal) |
+| 화면 구현 | [Web_Client_lecture_sources](https://github.com/skn-ai23-251124/web_client.git) |
+| Django | [Web_Server_lecture_sources](https://github.com/skn-ai23-251124/web_server.git) |
+| Cloud | [Cloud_lecture_sources](https://github.com/skn-ai23-251124/cloud.git) |
